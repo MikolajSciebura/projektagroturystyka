@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Po podpięciu domeny dodaj: Sitemap: https://TWOJA-DOMENA.PL/sitemap.xml
